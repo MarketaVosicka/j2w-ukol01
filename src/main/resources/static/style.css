@@ -1,6 +1,6 @@
 body {
     background-color: #FFFFFF;
-    font-family: "Trebuchet MS";
+    font-family: "Trebuchet MS", monospace;
 }
 
 a {
@@ -54,7 +54,7 @@ section {
 .content {
     width: 70vw;
     background-color: #DEE2EC;
-    box-shadow: #696969 1px 0px 8px 0px;
+    box-shadow: #696969 1px 0 8px 0;
 }
 
 article {
